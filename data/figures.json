@@ -1,0 +1,122 @@
+[
+  {
+    "popNumber": "898",
+    "name": "President Loki",
+    "releaseYear": 2021,
+    "category": "Marvel",
+    "franchise": "Loki"
+  },
+  {
+    "popNumber": "895",
+    "name": "Loki",
+    "releaseYear": 2021,
+    "category": "Marvel",
+    "franchise": "Loki"
+  },
+  {
+    "popNumber": "486",
+    "name": "Chilly Willy with Pancakes",
+    "releaseYear": 2018,
+    "category": "Animation",
+    "franchise": "Chilly Willy"
+  },
+  {
+    "popNumber": "52",
+    "name": "BMO",
+    "releaseYear": 2013,
+    "category": "Animation",
+    "franchise": "Adventure Time"
+  },
+  {
+    "popNumber": "332",
+    "name": "Tuxedo Cat",
+    "releaseYear": 2018,
+    "category": "Games",
+    "franchise": "Minecraft"
+  },
+  {
+    "popNumber": "360",
+    "name": "Cat Noir with Plagg",
+    "releaseYear": 2018,
+    "category": "Animation",
+    "franchise": "Miraculous"
+  },
+  {
+    "popNumber": "11",
+    "name": "King George",
+    "releaseYear": 2022,
+    "category": "Broadway",
+    "franchise": "Hamilton"
+  },
+  {
+    "popNumber": "824",
+    "name": "The Vision",
+    "releaseYear": 2021,
+    "category": "Marvel",
+    "franchise": "WandaVision"
+  },
+  {
+    "popNumber": "716",
+    "name": "Halloween Vision",
+    "releaseYear": 2020,
+    "category": "Marvel",
+    "franchise": "WandaVision"
+  },
+  {
+    "popNumber": "473",
+    "name": "Mary Poppins at the Music Hall",
+    "releaseYear": 2018,
+    "category": "Disney",
+    "franchise": "Mary Poppins Returns"
+  },
+  {
+    "popNumber": "370",
+    "name": "Pink Diamond",
+    "releaseYear": 2018,
+    "category": "Animation",
+    "franchise": "Steven Universe"
+  },
+  {
+    "popNumber": "269",
+    "name": "Korg",
+    "releaseYear": 2017,
+    "category": "Marvel",
+    "franchise": "Thor: Ragnarok"
+  },
+  {
+    "popNumber": "1124",
+    "name": "Stitch in Rollers",
+    "releaseYear": 2023,
+    "releaseYearEstimated": true,
+    "category": "Disney",
+    "franchise": "Lilo & Stitch"
+  },
+  {
+    "popNumber": "06",
+    "name": "Peggy Schuyler",
+    "releaseYear": 2021,
+    "category": "Broadway",
+    "franchise": "Hamilton"
+  },
+  {
+    "popNumber": "04",
+    "name": "Eliza Hamilton",
+    "releaseYear": 2021,
+    "category": "Broadway",
+    "franchise": "Hamilton"
+  },
+  {
+    "popNumber": "03",
+    "name": "Angelica Schuyler",
+    "releaseYear": 2021,
+    "category": "Broadway",
+    "franchise": "Hamilton"
+  },
+  {
+    "popNumber": "07",
+    "name": "Alexander Hamilton (Blue Coat)",
+    "releaseYear": 2021,
+    "category": "Broadway",
+    "franchise": "Hamilton"
+  }
+]
